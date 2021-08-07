@@ -12,7 +12,6 @@
 
 ## Samples
 
-#### [Background/Worker/Hosted Service]
 
 ---
 
