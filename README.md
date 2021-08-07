@@ -5,9 +5,6 @@
 
 
 
-- [.NET Hub](https://medium.com/dotnet-hub)
-
-
 ---
 
 ## Samples
