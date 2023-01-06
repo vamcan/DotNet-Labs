@@ -1,5 +1,5 @@
 
-# .NET Labs
+# .NET core Labs
 
 > .NET Labs: Samples .NET 5.0 projects.
 
